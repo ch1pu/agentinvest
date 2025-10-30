@@ -325,25 +325,153 @@ npm run type-check
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Market data provided by Polygon.io and Alpha Vantage
-- AI models powered by OpenAI and Anthropic
-- Icons and design inspiration from the cyberpunk aesthetic
-- Built with modern web technologies and best practices
-
-## ⚠️ Disclaimer
-
-**This is an educational project and not financial advice.**
-
-- AgentInvest provides recommendations for informational purposes only
-- Always conduct your own research before making investment decisions
-- Past performance does not guarantee future results
-- Investing involves risk, including potential loss of principal
-- Consult with a licensed financial advisor for personalized advice
+Copyright (c) 2025 Adolfo Lopez
 
 ---
 
-Built with ❤️ and AI by the AgentInvest team
+## ⚠️ Disclaimers
+
+### Portfolio Project Notice
+
+This is a portfolio demonstration project developed to showcase full-stack development skills, AI integration, microservices architecture, and financial data handling. It is **NOT intended for production use or actual investment decisions.**
+
+**Use at your own risk.** While functional, this project prioritizes demonstrating development capabilities over production-ready robustness.
+
+### Financial & Investment Disclaimer
+
+**IMPORTANT: This application is for educational and demonstration purposes only.**
+
+- **NOT FINANCIAL ADVICE:** This software does not provide financial, investment, tax, or legal advice
+- **NO WARRANTIES:** No guarantees on accuracy of calculations, predictions, or data
+- **NOT FOR ACTUAL INVESTING:** Do not make real investment decisions based on this tool
+- **CONSULT PROFESSIONALS:** Always consult qualified financial advisors for investment decisions
+- **DEMONSTRATION ONLY:** Features demonstrate technical capabilities, not investment strategies
+- **NO RECOMMENDATIONS:** Stock suggestions are algorithmic demonstrations, not professional recommendations
+- **RISK WARNING:** Investing involves risk, including potential loss of principal
+- **PAST PERFORMANCE:** Historical data does not guarantee future results
+
+The developer assumes no liability for any financial losses or decisions made using this software.
+
+### AI/Machine Learning Disclaimer
+
+AI-generated analysis, predictions, and recommendations in this project are experimental and may be inaccurate, biased, or misleading. AI models have limitations and should not be relied upon for financial decisions.
+
+**AI Limitations:**
+- Predictions may be wrong or outdated
+- Training data may contain biases
+- Models cannot predict market changes or black swan events
+- Not a substitute for professional financial analysis
+- Results are for technical demonstration only
+- No warranty on AI model accuracy or reliability
+
+### Privacy & Data Handling
+
+**Portfolio Demonstration Notice:**
+- This project uses mock/sample data for demonstration
+- Not designed for production use with real financial data
+- No encryption or security guarantees for sensitive information
+- Not compliant with financial regulations (GDPR, SOC 2, PCI-DSS, etc.)
+- Data may be stored locally - review code before entering real information
+- No guarantees of data security or privacy
+- Developer not responsible for data breaches or loss
+
+**If you run this locally:**
+- Review code before entering real personal information
+- API keys and credentials are your responsibility
+- No data transmitted to external servers by default (except API calls)
+- Database stored locally on your machine
+
+### Third-Party APIs
+
+This project may integrate with external APIs for demonstration:
+- **OpenAI API** - AI analysis features (requires your own API key)
+- **Anthropic API** - Alternative AI provider (requires your own API key)
+- **Polygon.io** - Market data provider (requires your own API key)
+- **Alpha Vantage** - Financial data provider (requires your own API key)
+- **News API** - News articles (requires your own API key)
+
+**Important:**
+- API keys NOT included - you must provide your own
+- Rate limits and costs apply per provider terms
+- Data accuracy depends on third-party services
+- No guarantees on API availability or accuracy
+- Review each API provider's terms of service before use
+- Developer not responsible for API costs or issues
+- API usage may incur charges from providers
+
+---
+
+## 📚 Third-Party Libraries
+
+This project uses the following open-source libraries:
+
+**Frontend:**
+- [React](https://reactjs.org/) 18.x - MIT License
+- [TypeScript](https://www.typescriptlang.org/) - Apache 2.0 License
+- [Tailwind CSS](https://tailwindcss.com/) - MIT License
+- [Framer Motion](https://www.framer.com/motion/) - MIT License
+- [Recharts](https://recharts.org/) - MIT License
+- [Vite](https://vitejs.dev/) - MIT License
+- [React Router](https://reactrouter.com/) v7 - MIT License
+
+**Backend - Microservices:**
+- [Node.js](https://nodejs.org/) 20.x - MIT License
+- [Express](https://expressjs.com/) - MIT License
+- [Python](https://www.python.org/) 3.11 - PSF License
+- [FastAPI](https://fastapi.tiangolo.com/) - MIT License
+
+**AI/ML:**
+- [OpenAI Python Client](https://github.com/openai/openai-python) - MIT License
+
+**Databases:**
+- [PostgreSQL](https://www.postgresql.org/) 15 - PostgreSQL License
+- [TimescaleDB](https://www.timescale.com/) - Apache 2.0 License (Timescale License for enterprise features)
+- [Redis](https://redis.io/) 7 - BSD License
+- [MongoDB](https://www.mongodb.com/) 7 - Server Side Public License (SSPL)
+
+**Infrastructure:**
+- [Docker](https://www.docker.com/) - Apache 2.0 License
+- [Docker Compose](https://docs.docker.com/compose/) - Apache 2.0 License
+
+Full dependency list available in `package.json`, `requirements.txt`, and `docker-compose.yml`.
+
+### License Compatibility Note
+
+All dependencies are compatible with the MIT License under which this project is released.
+
+---
+
+## 🤝 Contributing
+
+This is a portfolio project, but suggestions and feedback are welcome! Feel free to:
+- Open issues for bugs or suggestions
+- Submit pull requests for improvements
+- Fork for your own modifications
+
+By contributing, you agree that your contributions will be licensed under the MIT License.
+
+## 👨‍💻 Contact
+
+**Adolfo Lopez**
+- GitHub: [@ch1pu](https://github.com/ch1pu)
+- Email: adolfo.lopez.2006@gmail.com
+
+---
+
+**Built as part of my software development portfolio to demonstrate:**
+- Microservices architecture (Node.js + Python)
+- AI/ML integration (OpenAI API)
+- Multi-database strategy (PostgreSQL, TimescaleDB, MongoDB, Redis)
+- Real-time financial data handling
+- Full-stack development (React + TypeScript)
+- Modern UI/UX with Tailwind CSS and Framer Motion
+- RESTful and WebSocket API design
+- Docker multi-container orchestration
+
+*This project is not affiliated with any financial institution, investment firm, or AI company.*
+
+---
+
+**Portfolio project for developers and data enthusiasts**
