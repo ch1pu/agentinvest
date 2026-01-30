@@ -456,7 +456,7 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 **Adolfo Lopez**
 - GitHub: [@ch1pu](https://github.com/ch1pu)
-- Email: adolfo.lopez.2006@gmail.com
+- Twitter: [@2006_adolfo](https://twitter.com/2006_adolfo)
 
 ---
 
